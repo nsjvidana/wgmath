@@ -2,7 +2,8 @@
 members = [
     "crates/wgcore", "crates/wgebra",
     "crates/wgparry/crates/wgparry2d", "crates/wgparry/crates/wgparry3d",
-    "crates/wgrapier/crates/wgrapier2d", "crates/wgrapier/crates/wgrapier3d"
+    "crates/wgrapier/crates/wgrapier2d", "crates/wgrapier/crates/wgrapier3d",
+    "crates/wgsalva/crates/wgsalva2d", "crates/wgsalva/crates/wgsalva3d"
 ]
 resolver = "2"
 
