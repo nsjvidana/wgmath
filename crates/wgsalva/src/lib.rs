@@ -8,5 +8,7 @@ pub extern crate salva3d as rapier;
 pub extern crate wgparry2d as wgparry;
 #[cfg(feature = "dim3")]
 pub extern crate wgparry3d as wgparry;
+extern crate core;
 
 pub mod liquid_world;
+pub mod object;
